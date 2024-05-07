@@ -1,0 +1,6 @@
+requests
+pandas
+geojson
+openpyxl
+plotly
+lxml
