@@ -8,7 +8,7 @@ Measurement While Drilling (MWD) is a technique used in drilling operations to p
 
 ## Contents
 
-- **Raw Data:** The `raw_data.txt` file contains an example of raw MWD data in structured text format.
+- **Raw Data:** The `3_11_B-2.guh` file contains an example of raw MWD data in structured text format.
 - **Converted DIGGS File:** The `converted_data.diggs` file contains the same data converted into the DIGGS format.
 
 ## Usage
