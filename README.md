@@ -23,7 +23,7 @@ To utilize the conversion process for your own MWD data:
 ## Resources
 
 - [DIGGS Specification](https://www.diggsml.org/): Official documentation for the DIGGS standard.
-- [Interactive MWD Data Example](https://geoprojectportals.com/project_portal/file_manager/SEQ/SEQ-Example/MWD-1/download/3_11_HANOVER_QUARTER_2023/soil_summary.html/): Additional tools and resources for analyzing MWD data.
+- [Interactive MWD Data Example](https://geoprojectportals.com/project_portal/file_manager/SEQ/SEQ-Example/MWD-1/download/3_11_B-2/soil_summary.html/): Additional tools and resources for analyzing MWD data.
 
 ## Contribution
 
