@@ -4,7 +4,7 @@ Welcome to the repository containing an example of raw MWD data converted into t
 
 ## Overview
 
-Measurement While Drilling (MWD) is a technique used in drilling operations to provide real-time data about the wellbore, including direction, inclination, and other parameters. This repository contains an example of raw MWD data obtained during a drilling operation, along with its conversion into the DIGGS format.
+Measurement While Drilling (MWD) is a technique used in drilling operations to provide real-time data about the borehole, including direction, inclination, and other parameters. This repository contains an example of raw MWD data obtained during a drilling operation, along with its conversion into the DIGGS format.
 
 ## Contents
 
