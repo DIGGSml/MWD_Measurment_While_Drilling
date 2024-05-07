@@ -6,7 +6,7 @@ header_data = {}
 parameter_data = {}
 data_rows = []
 
-with open('/workspaces/MWD_Measurment_While_Drilling/3_11_HANOVER_QUARTER_2023.guh', 'r') as file:
+with open('/workspaces/MWD_Measurment_While_Drilling/3_11_B-2.guh', 'r') as file:
     section = None
     for line in file:
         line = line.strip()
