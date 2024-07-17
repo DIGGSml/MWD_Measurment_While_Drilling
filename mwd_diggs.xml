@@ -2,7 +2,7 @@
 <Diggs xmlns="http://diggsml.org/schemas/2.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:g3.3="http://www.opengis.net/gml/3.3/ce" xmlns:glr="http://www.opengis.net/gml/3.3/lr" xmlns:glrov="http://www.opengis.net/gml/3.3/lrov" xmlns:diggs_geo="http://diggsml.org/schemas/2.6/geotechnical" xmlns:witsml="http://www.witsml.org/schemas/131" xmlns:diggs="http://diggsml.org/schemas/2.6" xsi:schemaLocation="http://diggsml.org/schemas/2.6 http://diggsml.org/schemas/2.6/Diggs.xsd" gml:id="Github_Exported">
   <documentInformation>
     <DocumentInformation gml:id="mwd_guh_2_DIGGS">
-      <creationDate>2024-07-16</creationDate>
+      <creationDate>2024-07-17</creationDate>
       <auditTrail>
         <Remark>
           <content>mwd_guh_2_DIGGS</content>
@@ -33,12 +33,12 @@
       <projectRef xlink:href="#p1"/>
       <referencePoint>
         <PointLocation gml:id="Point_Location3890831877466659_Num_0-pl">
-          <gml:pos srsDimension="3" srsName="urn:diggs:def:crs:DIGGS:0.1:4326_5702" uomLabels="degrees">-77.466659 38.908318 244.34</gml:pos>
+          <gml:pos srsDimension="3" srsName="urn:diggs:def:crs:DIGGS:0.1:4326_5702" uomLabels="degrees"/>
         </PointLocation>
       </referencePoint>
       <centerLine>
         <LinearExtent gml:id="Linear_Extent_0">
-          <gml:posList>-77.466659 38.908318 244.34 38.908318 -77.466659 219.14000000000001</gml:posList>
+          <gml:posList>000000000000000000000000000000000000000000000000</gml:posList>
         </LinearExtent>
       </centerLine>
       <linearReferencing>

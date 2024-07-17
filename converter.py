@@ -107,13 +107,13 @@ pos = ET.SubElement(point_location, 'gml:pos', {
     'srsName': 'urn:diggs:def:crs:DIGGS:0.1:4326_5702',
     'uomLabels': 'degrees'
 })
-pos.text = '-77.466659 38.908318 244.34'
+
 
 # Add centerLine
 center_line = ET.SubElement(borehole, 'centerLine')
 linear_extent = ET.SubElement(center_line, 'LinearExtent', {'gml:id': 'Linear_Extent_0'})
 pos_list = ET.SubElement(linear_extent, 'gml:posList')
-pos_list.text = '-77.466659 38.908318 244.34 38.908318 -77.466659 219.14000000000001'
+pos_list.text = header_data['Longitude_Modem'] +header_data['Latitude_Modem'] +header_data['Altitude_Modem'] 
 
 # Add linearReferencing
 linear_referencing = ET.SubElement(borehole, 'linearReferencing')
