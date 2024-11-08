@@ -823,6 +823,9 @@
           </results>
         </MWDResult>
       </outcome>
+      <procedure>
+        <MWDProcedure gml:id="mwd1"></MWDProcedure>
+      </procedure>
     </MeasurementWhileDrilling>
   </measurement>
 </Diggs>
