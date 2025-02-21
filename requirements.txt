@@ -4,3 +4,5 @@ geojson
 openpyxl
 plotly
 lxml
+netCDF4
+xarray

@@ -1,1 +1,2 @@
-.bor files are zip files with two embeded files see more details here https://bor-form.at/en/
+.bor files are zip files with two embeded (.xml and .nc) the nc file is a netCDF file that can be extracted to text. 
+See more details here https://bor-form.at/en/
