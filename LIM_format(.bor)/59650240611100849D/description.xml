@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://www.lim.eu/description" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lim.eu/description description.xsd">
+  <filename>59650240611100849D</filename>
+  <creation>2024-06-11T10:08:49-05:00</creation>
+  <modification>2024-06-11T10:21:29-05:00</modification>
+  <project_ref>LIM</project_ref>
+  <borehole_ref>TEST HOLE 1</borehole_ref>
+  <position>
+    <longitude unit="degree">-97.6196289</longitude>
+    <latitude unit="degree">38.8504295</latitude>
+    <altitude unit="m">378.000000</altitude>
+    <epv unit="m">655.35</epv>
+    <eph unit="m">655.35</eph>
+  </position>
+  <cell>
+    <mcc>310</mcc>
+    <mnc>260</mnc>
+    <cellid>0073BD02</cellid>
+    <lac>0000A5ED</lac>
+  </cell>
+  <operator>LIM</operator>
+  <device>
+    <serial>59650</serial>
+    <version>1.1</version>
+    <build>20240408</build>
+  </device>
+  <drilling>
+    <machine_ref>3230DT</machine_ref>
+    <method>DRLMTD_RTR</method>
+    <tool>DRLBIT_TRCN</tool>
+    <tool_diameter unit="inch">3.62</tool_diameter>
+    <fluid>DRLFLD_WTR</fluid>
+    <bit_mass unit="lb">0</bit_mass>
+    <rod_mass unit="lb">0</rod_mass>
+    <rod_length unit="ft">5</rod_length>
+    <thrust_area unit="ft2">0</thrust_area>
+    <holdback_area unit="ft2">0</holdback_area>
+    <torque_factor>0.00</torque_factor>
+  </drilling>
+  <convention version="1.1">
+    <parameters phase="DRILL">
+      <effective_duration unit="s">282.90</effective_duration>
+      <logfile>data.nc</logfile>
+    </parameters>
+  </convention>
+</description>
