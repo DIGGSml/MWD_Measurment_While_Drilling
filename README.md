@@ -4,11 +4,11 @@ Welcome to the repository containing an example of raw MWD data converted into t
 
 ## Overview
 
-Measurement While Drilling (MWD) is a technique used in drilling operations to provide real-time data about the borehole, including direction, inclination, and other parameters. This repository contains an example of raw MWD data obtained during a drilling operation, along with its conversion into the DIGGS format.
+Measurement While Drilling (MWD) is a technique used in drilling operations to provide real-time data about the borehole, including direction, inclination, and other parameters. This repository contains multiple examples of different formats of MWD data, along with the conversion into the DIGGS format.
 
 ## Contents
 
-- **Raw Data:** The `3_11_B-2.guh` file contains an example of raw MWD data in structured text format.
+- **Raw Data:** The `3_11_B-2.guh` Hatlapa_Format(.guh) file contains an example of raw MWD data in structured text format.
 - **Converted DIGGS File:** The `converted_data.diggs` file contains the same data converted into the DIGGS format.
 
 ## Usage
